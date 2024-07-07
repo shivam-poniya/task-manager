@@ -26,8 +26,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/todo-task-manager.git
-   cd todo-task-manager
+   git clone https://github.com/shivam-poniya/task-manager.git
+   cd task-manager
    ```
 
 2. **Install Dependencies**
