@@ -4,6 +4,8 @@
 
 This is a ToDo Task Manager App with the frontend built in React and the backend utilizing Firebase for authentication and database connectivity.
 
+https://www.loom.com/share/e7209f9cb00b43c6a26ade9c33c23bc0?sid=f2c4aeb0-d486-41e1-8c98-07a6d4078acf
+
 ## Features
 
 - **User Authentication**: Register and authenticate users.
